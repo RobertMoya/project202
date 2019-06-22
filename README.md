@@ -1,2 +1,2 @@
 # project202
-#get two sqaures to move
+#get two squares to move
